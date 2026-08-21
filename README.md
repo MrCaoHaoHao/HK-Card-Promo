@@ -1,11 +1,11 @@
 # 💳 港卡活动雷达 · HK Card Promo Monitor
 
-> 🤖 全自动监控香港银行信用卡优惠活动 —— 每 30 分钟云端巡检一次，新活动上线**秒级感知**，条款细则自动提取，微信即时推送。
+> 🤖 全自动监控香港银行信用卡优惠活动 —— 云端智能频率巡检（月初高发期 10 分钟一轮），新活动上线**分钟级感知**，条款细则自动提取，微信即时推送。
 
 [![monitor](https://github.com/MrCaoHaoHao/HK-Card-Promo/actions/workflows/daily-scan.yml/badge.svg)](https://github.com/MrCaoHaoHao/HK-Card-Promo/actions/workflows/daily-scan.yml)
 ![Python](https://img.shields.io/badge/Python-3.12+-3776ab?logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-单文件数据库-003b57?logo=sqlite&logoColor=white)
-![Schedule](https://img.shields.io/badge/巡检频率-每_30_分钟-success)
+![Schedule](https://img.shields.io/badge/巡检频率-10_/_30_分钟智能调度-success)
 
 ---
 
@@ -32,7 +32,9 @@
 ## ⚙️ 工作原理
 
 ```
-每 30 分钟（GitHub Actions）
+GitHub Actions 智能调度（北京时间）
+  · 每月 1-5 号：8:00-20:00 每 10 分钟 + 凌晨 0:00-2:00 每 10 分钟
+  · 每月 6-月底：8:00-20:00 每 30 分钟
         │
         ▼
 ┌──────────────────┐    ┌──────────────────┐
@@ -56,7 +58,7 @@
 1. Fork 或克隆本仓库
 2. 在仓库 **Settings → Secrets and variables → Actions** 添加：
    - `HKP_SCKEY`：你的 Server酱 SendKey（[点此申请](https://sct.ftqq.com)）
-3. 完成！工作流 `hk-card-promo-monitor` 每 30 分钟自动巡检
+3. 完成！工作流 `hk-card-promo-monitor` 按智能频率自动巡检（月初 10 分钟 / 平日 30 分钟）
    - 也可在 **Actions** 页面点击 `Run workflow` 手动触发
 
 ### 本地运行
