@@ -1,0 +1,690 @@
+[
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-cash-in-hand-balance-transfer.html|BEA_CHI_Balance_Transfer_350x234_SC.jpg",
+    "category": "信用卡套现",
+    "title": "「好用钱」结余转户",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-cash-in-hand-balance-transfer.html",
+    "banner_img": "https://www.hkbea.com/images/CIH/BEA_CHI_Balance_Transfer_350x234_SC.jpg",
+    "first_seen_at": "2026-08-18 14:34:37",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/sc/kfs_bt_sc.pdf",
+      "https://www.hkbea.com/pdf/coolingoff_period_cih.pdf",
+      "https://www.hkbea.com/pdf/sc/credit-card/bt-tnc-sc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-cash-in-hand-programme.html|BEA_CIH_Online_Rebate_Program_350x234_SC.jpg",
+    "category": "信用卡套现",
+    "title": "「好用钱」现金兑现计划",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-cash-in-hand-programme.html",
+    "banner_img": "https://www.hkbea.com/images/CIH/BEA_CIH_Online_Rebate_Program_350x234_SC.jpg",
+    "first_seen_at": "2026-08-18 14:34:31",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/sc/kfs_cih_sc.pdf",
+      "https://www.hkbea.com/pdf/sc/credit-card/cih-tnc-sc.pdf",
+      "https://www.hkbea.com/pdf/coolingoff_period_cih.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-cash-in-hand-statement-instalment.html|BEA_SI_online_rebate_program_350x234_SC.jpg",
+    "category": "信用卡套现",
+    "title": "「好用钱」结单分期",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-cash-in-hand-statement-instalment.html",
+    "banner_img": "https://www.hkbea.com/images/CIH/BEA_SI_online_rebate_program_350x234_SC.jpg",
+    "first_seen_at": "2026-08-18 14:34:34",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/sc/kfs_si_sc.pdf",
+      "https://www.hkbea.com/pdf/sc/credit-card/si-tnc-sc.pdf",
+      "https://www.hkbea.com/pdf/202601_si-rebate-programme-sc.pdf",
+      "https://www.hkbea.com/pdf/coolingoff_period_cih.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-cashadvance.html|cabannersc.jpg",
+    "category": "信用卡套现",
+    "title": "现金透支",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-cashadvance.html",
+    "banner_img": "https://www.hkbea.com/images/sc/credit-card/cash-in-hand/cabannersc.jpg",
+    "first_seen_at": "2026-08-18 14:34:40",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/sc/supp_card_key_facts_statement_sc.pdf",
+      "https://www.hkbea.com/pdf/seg/caservicetncc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-rewards-and-spending-offer-digital-wallet-rewards.html|072025_BEA_Digital_wallet_eitem_R5_350x234px_SC_OP.jpg",
+    "category": "奬赏及消费优惠",
+    "title": "072025 BEA Digital wallet eitem R5 537x327px SC OP",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-rewards-and-spending-offer-digital-wallet-rewards.html",
+    "banner_img": "https://www.hkbea.com/images/Usage/DigitalWallet2026/072025_BEA_Digital_wallet_eitem_R5_350x234px_SC_OP.jpg",
+    "first_seen_at": "2026-08-18 14:33:41",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/Usage/DigitalWallet2026/digital-wallet-example-sc.pdf",
+      "https://www.hkbea.com/pdf/User_Guide_3DS_OOB_SC.pdf",
+      "https://www.hkbea.com/pdf/Usage/DigitalWallet2026/bea-2026-digital-wallet-tnc-sc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-rewards-and-spending-offer-interestfun.html|td_sc_hot.jpg",
+    "category": "奬赏及消费优惠",
+    "title": "升息赏 - 港元3个月定期存款高达0.2%额外特惠年利率",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-rewards-and-spending-offer-interestfun.html",
+    "banner_img": "https://www.hkbea.com/images/td_sc_hot.jpg",
+    "first_seen_at": "2026-08-18 14:34:29",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/Worldmc_TD_sc2026.pdf",
+      "https://www.hkbea.com/pdf/Worldmc_TD_sc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-rewards-and-spending-offer-jcbspend.html|092025_BEA_JCB_Spending_Oct_Mar_eitem_R1_Banner_SC_350x234.jpg",
+    "category": "奬赏及消费优惠",
+    "title": "092025 BEA JCB Spending Oct Mar eitem R1 KV 537x327 SC",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-rewards-and-spending-offer-jcbspend.html",
+    "banner_img": "https://www.hkbea.com/images/Usage/JCBSpend/092025_BEA_JCB_Spending_Oct_Mar_eitem_R1_Banner_SC_350x234.jpg",
+    "first_seen_at": "2026-08-18 14:33:44",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/Usage/JCB/jcbspend-tnc-sc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-rewards-and-spending-offer-onlinebillpaymentandbalancetransfer.html|072026_BEA_Online_Balance_Transfer_Program_full_base_Aug_eitem_Batch2_R1_Banner_SC_350x234.jpg",
+    "category": "奬赏及消费优惠",
+    "title": "072026 BEA Online Balance Transfer Program full base Aug eitem Batch2 R1 KV 537x327 SC",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-rewards-and-spending-offer-onlinebillpaymentandbalancetransfer.html",
+    "banner_img": "https://www.hkbea.com/images/Usage/OBT/2026Aug/072026_BEA_Online_Balance_Transfer_Program_full_base_Aug_eitem_Batch2_R1_Banner_SC_350x234.jpg",
+    "first_seen_at": "2026-08-20 10:31:33",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/Usage/OBT/2026/2026Aug/onlinebt-bp-si-example-sc.pdf",
+      "https://www.hkbea.com/pdf/Usage/OBT/2026/2026Aug/onlinebt-bp-si-tnc-sc.pdf",
+      "https://www.hkbea.com/pdf/update_marketing_preference.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-rewards-and-spending-offer-spending-1.html|summer_mass_spending_web_350x234_sc.jpg",
+    "category": "奬赏及消费优惠",
+    "title": "summer mass spending web 537x327 sc",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-rewards-and-spending-offer-spending-1.html",
+    "banner_img": "https://www.hkbea.com/images/Usage/Spending/2026JulAug/summer_mass_spending_web_350x234_sc.jpg",
+    "first_seen_at": "2026-08-18 14:33:38",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/Usage/Spending/2026JulAug/spend-example-sc.pdf",
+      "https://www.hkbea.com/pdf/Usage/Spending/2026JulAug/spend-tnc-sc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-rewards-and-spending-offer-world-zone.html|bea_mall_1kbps_web_350x234_sc.jpg",
+    "category": "奬赏及消费优惠",
+    "title": "新节点",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-rewards-and-spending-offer-world-zone.html",
+    "banner_img": "https://www.hkbea.com/images/rewards/1000fun/bea_mall_1kbps_web_350x234_sc.jpg",
+    "first_seen_at": "2026-08-18 14:33:48",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/Rewards/1000fun/bea-rewards-1000fun-tnc-sc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-entertainment-offer-2026-gigi-leung.html|072026_BEA_Concert_Gigi_Leung_eitem_R1_Banner_SC_350x234.jpg",
+    "category": "娱乐优惠",
+    "title": "072026 BEA Concert Gigi Leung eitem R1 KV 537x327 SC",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-entertainment-offer-2026-gigi-leung.html",
+    "banner_img": "https://www.hkbea.com/images/Usage/ConcertPB/2026GigiLeung/072026_BEA_Concert_Gigi_Leung_eitem_R1_Banner_SC_350x234.jpg",
+    "first_seen_at": "2026-08-18 14:33:31",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/User_Guide_3DS_OOB_SC.pdf",
+      "https://www.hkbea.com/pdf/Usage/ConcertPB/2026GigiLeung/bea-2026-gigi-leung-tnc-sc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-entertainment-offer-2026-sammi-cheng.html|032026_BEA_Concert_Sammi_eitem_R3_Banner_SC_350x234.jpg",
+    "category": "娱乐优惠",
+    "title": "032026 BEA Concert Sammi eitem R3 KV 537x327 SC",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-entertainment-offer-2026-sammi-cheng.html",
+    "banner_img": "https://www.hkbea.com/images/032026_BEA_Concert_Sammi_eitem_R3_Banner_SC_350x234.jpg",
+    "first_seen_at": "2026-08-18 14:33:34",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/User_Guide_3DS_OOB_SC.pdf",
+      "https://www.hkbea.com/pdf/Usage/ConcertPB/2026Sammi/Important_notes_for_purchasing_tickets.pdf",
+      "https://www.hkbea.com/pdf/Usage/ConcertPB/2026Sammi/bea-2026-sammi-cheng-tnc-sc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-shopping-offer-yro.html|022023_BEA_Hutchgo_eitem_350x234_SC.jpg",
+    "category": "旅游优惠",
+    "title": "购物优惠",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-shopping-offer-yro.html",
+    "banner_img": "https://www.hkbea.com/images/Usage/YRO/2025/022023_BEA_Hutchgo_eitem_350x234_SC.jpg",
+    "first_seen_at": "2026-08-18 14:33:20",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/Usage/2026YROshopping/2026YRO_PDF_SC.pdf",
+      "https://www.hkbea.com/pdf/Usage/2026YROshoping/2026_yro_tnc_tc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-shopping-offer-yro.html|052025_BEA_Airport_Transfer_Limousine_Service_eitem_350x234_SC.jpg",
+    "category": "旅游优惠",
+    "title": "购物优惠",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-shopping-offer-yro.html",
+    "banner_img": "https://www.hkbea.com/images/Usage/YRO/2025/052025_BEA_Airport_Transfer_Limousine_Service_eitem_350x234_SC.jpg",
+    "first_seen_at": "2026-08-18 14:33:28",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/Usage/2026YROshopping/2026YRO_PDF_SC.pdf",
+      "https://www.hkbea.com/pdf/Usage/2026YROshoping/2026_yro_tnc_tc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-shopping-offer-yro.html|062025_BEA_Trip.com_eitem_350x234_SC.jpg",
+    "category": "旅游优惠",
+    "title": "购物优惠",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-shopping-offer-yro.html",
+    "banner_img": "https://www.hkbea.com/images/Usage/YRO/2025/062025_BEA_Trip.com_eitem_350x234_SC.jpg",
+    "first_seen_at": "2026-08-18 14:33:21",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/Usage/2026YROshopping/2026YRO_PDF_SC.pdf",
+      "https://www.hkbea.com/pdf/Usage/2026YROshoping/2026_yro_tnc_tc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-shopping-offer-yro.html|082021_BEA_agoda_JP_350x234_SC.jpg",
+    "category": "旅游优惠",
+    "title": "购物优惠",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-shopping-offer-yro.html",
+    "banner_img": "https://www.hkbea.com/images/Usage/YRO/2025/082021_BEA_agoda_JP_350x234_SC.jpg",
+    "first_seen_at": "2026-08-18 14:33:19",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/Usage/2026YROshopping/2026YRO_PDF_SC.pdf",
+      "https://www.hkbea.com/pdf/Usage/2026YROshoping/2026_yro_tnc_tc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-shopping-offer-yro.html|092025_BEA_Goldjoy_eitem_Banner_SC_350x234.jpg",
+    "category": "旅游优惠",
+    "title": "购物优惠",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-shopping-offer-yro.html",
+    "banner_img": "https://www.hkbea.com/images/Usage/YRO/2025/092025_BEA_Goldjoy_eitem_Banner_SC_350x234.jpg",
+    "first_seen_at": "2026-08-18 14:33:22",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/Usage/2026YROshopping/2026YRO_PDF_SC.pdf",
+      "https://www.hkbea.com/pdf/Usage/2026YROshoping/2026_yro_tnc_tc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-shopping-offer-yro.html|Expedia & Hotels_eitem_350x234_SC.png",
+    "category": "旅游优惠",
+    "title": "购物优惠",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-shopping-offer-yro.html",
+    "banner_img": "https://www.hkbea.com/images/Usage/YRO/2025/Expedia & Hotels_eitem_350x234_SC.png",
+    "first_seen_at": "2026-08-18 14:33:18",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/Usage/2026YROshopping/2026YRO_PDF_SC.pdf",
+      "https://www.hkbea.com/pdf/Usage/2026YROshoping/2026_yro_tnc_tc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-travel-offer-2026kkday.html|052026_BEA_KKday_eitem_R2_Banner_SC_350x234.jpg",
+    "category": "旅游优惠",
+    "title": "052026 BEA KKday eitem R2 KV 537x327 SC",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-travel-offer-2026kkday.html",
+    "banner_img": "https://www.hkbea.com/images/Usage/2026KKday/052026_BEA_KKday_eitem_R2_Banner_SC_350x234.jpg",
+    "first_seen_at": "2026-08-18 14:32:58",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/Usage/2026KKday/kkday2026jp-tnc-sc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-travel-offer-mastercard.html|072026_BEA_World_Mastercard_Travel_Q3_eitem_Banner_SC_350x234.jpg",
+    "category": "旅游优惠",
+    "title": "072026 BEA World Mastercard Travel Q3 eitem KV 537x327 SC",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-travel-offer-mastercard.html",
+    "banner_img": "https://www.hkbea.com/images/Usage/Mastercard/2026Q3/072026_BEA_World_Mastercard_Travel_Q3_eitem_Banner_SC_350x234.jpg",
+    "first_seen_at": "2026-08-18 14:33:03",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-travel-offer-wmcloungekey.html|BEA_Airport_Lounge_WEB_2018_307x260_SC.jpg",
+    "category": "旅游优惠",
+    "title": "BEA Airport Lounge WEB 2018 537x327",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-travel-offer-wmcloungekey.html",
+    "banner_img": "https://www.hkbea.com/images/sc/credit-card/hot-promotion/BEA_Airport_Lounge_WEB_2018_307x260_SC.jpg",
+    "first_seen_at": "2026-08-18 14:33:24",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/sc/credit-card/travel-offer/howtouse-wmcloungekey-sc.pdf",
+      "https://www.hkbea.com/pdf/sc/wmcloungekey-tnc-sc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-world-mastercard.html|wmc_limousine_307x260_sc.jpg",
+    "category": "旅游优惠",
+    "title": "东亚银行显卓理财World Mastercard卡",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-world-mastercard.html",
+    "banner_img": "https://www.hkbea.com/images/sc/credit-card/hot-promotion/wmc_limousine_307x260_sc.jpg",
+    "first_seen_at": "2026-08-18 14:33:28",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/update_marketing_preference.pdf",
+      "https://www.hkbea.com/pdf/sc/credit-card/master-reward-tnc_sc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-shopping-offer-yro.html|112024_BEA_YRO_2025_eitem_350x234_SC.jpg",
+    "category": "购物优惠",
+    "title": "购物优惠",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-shopping-offer-yro.html",
+    "banner_img": "https://www.hkbea.com/images/Usage/YRO/2025/112024_BEA_YRO_2025_eitem_350x234_SC.jpg",
+    "first_seen_at": "2026-08-18 14:33:35",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/Usage/2026YROshopping/2026YRO_PDF_SC.pdf",
+      "https://www.hkbea.com/pdf/Usage/2026YROshoping/2026_yro_tnc_tc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-aia-credit-card.html|112023_BEA_AIA_eitem_350x234_SC_OP.jpg",
+    "category": "迎新优惠",
+    "title": "东亚银行AIA信用卡",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-aia-credit-card.html",
+    "banner_img": "https://www.hkbea.com/images/Acq/112023_BEA_AIA_eitem_350x234_SC_OP.jpg",
+    "first_seen_at": "2026-08-18 14:32:46",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/sc/credit-card/aia_tnc_sc.pdf",
+      "https://www.hkbea.com/pdf/sc/credit-card/si-tnc-sc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-welcome-offer-bea-dual-card.html|022026_BEA_Dual_Card_Program_WMC_GOAL_eitem_R11_Banner_SC_350x234.jpg",
+    "category": "迎新优惠",
+    "title": "东亚银行信用卡双卡迎新奖赏",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-welcome-offer-bea-dual-card.html",
+    "banner_img": "https://www.hkbea.com/images/Acq/Dual/022026_BEA_Dual_Card_Program_WMC_GOAL_eitem_R11_Banner_SC_350x234.jpg",
+    "first_seen_at": "2026-08-18 14:32:05",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/sc/supp_card_key_facts_statement_sc.pdf",
+      "https://www.hkbea.com/pdf/sc/credit-card/dual26_tnc_sc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-welcome-offer-bea-goal-card.html|062026_BEA_GOAL_eitem_R2_Banner_SC_350x234.jpg",
+    "category": "迎新优惠",
+    "title": "BEA GOAL 信用卡迎新優惠",
+    "detail_url": "https://www.hkbea.com/html/tc/bea-credit-card-welcome-offer-bea-goal-card.html",
+    "banner_img": "https://www.hkbea.com/images/Acq/GOAL/062026_BEA_GOAL_eitem_R2_Banner_SC_350x234.jpg",
+    "first_seen_at": "2026-08-18 14:32:22",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/tc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/tc/credit-card/master-reward-tnc_tc.pdf",
+      "https://www.hkbea.com/pdf/tc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-welcome-offer-diamond-student-card.html|112025_BEA_UP_Student_Card_eitem_R9_Banner_SC_350x234.jpg",
+    "category": "迎新优惠",
+    "title": "新节点",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-welcome-offer-diamond-student-card.html",
+    "banner_img": "https://www.hkbea.com/images/sc/credit-card/Diamond/112025_BEA_UP_Student_Card_eitem_R9_Banner_SC_350x234.jpg",
+    "first_seen_at": "2026-08-18 14:32:34",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/sc/supp_card_key_facts_statement_sc.pdf",
+      "https://www.hkbea.com/pdf/sc/credit-card/updst_tnc_sc.pdf",
+      "https://www.hkbea.com/pdf/upflow_sc.pdf",
+      "https://www.hkbea.com/pdf/update_marketing_preference.pdf",
+      "https://www.hkbea.com/pdf/sc/credit-card/master-reward-tnc_sc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-welcome-offer-goal-student-card.html|072025_BEA_GOAL_Student_card_eitem_OP_KV_350x234_SC.jpg",
+    "category": "迎新优惠",
+    "title": "BEA GOAL信用卡（大学/大专学生专用）",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-welcome-offer-goal-student-card.html",
+    "banner_img": "https://www.hkbea.com/images/Acq/072025_BEA_GOAL_Student_card_eitem_OP_KV_350x234_SC.jpg",
+    "first_seen_at": "2026-08-18 14:32:28",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/tc/credit-card/goalst_tnc_tc.pdf",
+      "https://www.hkbea.com/pdf/sc/credit-card/master-reward-tnc_sc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-welcome-offer-jcb-card.html|072024_BEA_JCB_Welcome_Offer_R1_350x234_SC.jpg",
+    "category": "迎新优惠",
+    "title": "东亚银行JCB白金信用卡迎新礼品",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-welcome-offer-jcb-card.html",
+    "banner_img": "https://www.hkbea.com/images/Acq/072024_BEA_JCB_Welcome_Offer_R1_350x234_SC.jpg",
+    "first_seen_at": "2026-08-18 14:32:52",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/sc/supp_card_key_facts_statement_sc.pdf",
+      "https://www.hkbea.com/pdf/sc/credit-card/master-reward-tnc_sc.pdf",
+      "https://www.hkbea.com/pdf/sc/credit-card/jcb-tnc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-welcome-offer-sgw.html|022026_BEA_SupremeGold_Mastercard_Q2_eitem_R1_Banner_SC_350x234.jpg",
+    "category": "迎新优惠",
+    "title": "东亚银行显卓理财World Mastercard卡迎新优惠",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-welcome-offer-sgw.html",
+    "banner_img": "https://www.hkbea.com/images/Acq/SWMC/022026_BEA_SupremeGold_Mastercard_Q2_eitem_R1_Banner_SC_350x234.jpg",
+    "first_seen_at": "2026-08-18 14:32:09",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/sc/supp_card_key_facts_statement_sc.pdf",
+      "https://www.hkbea.com/pdf/sc/credit-card/sggift.pdf",
+      "https://www.hkbea.com/pdf/sc/credit-card/sgw300.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-welcome-offer-wmc-q1.html|052026_BEA_World_Mastercard_Welcome_offer_eitem_Banner_SC_350x234.jpg",
+    "category": "迎新优惠",
+    "title": "东亚银行信用卡迎新奖赏 - 赏里．赏玩",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-welcome-offer-wmc-q1.html",
+    "banner_img": "https://www.hkbea.com/images/Acq/WMC/052026_BEA_World_Mastercard_Welcome_offer_eitem_Banner_SC_350x234.jpg",
+    "first_seen_at": "2026-08-18 14:32:12",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/sc/supp_card_key_facts_statement_sc.pdf",
+      "https://www.hkbea.com/pdf/tc/credit-card/wmc_tnc_tc.pdf",
+      "https://www.hkbea.com/pdf/tc/credit-card/2ndcard300.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-unionpay-dual-currency-diamond-card.html|052026_BEA_UPD_Welcome_Offer_eitem_R1_Banner_SC_350x234.jpg",
+    "category": "迎新优惠",
+    "title": "东亚银行银联双币钻石信用卡",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-unionpay-dual-currency-diamond-card.html",
+    "banner_img": "https://www.hkbea.com/images/Acq/UPD/052026_BEA_UPD_Welcome_Offer_eitem_R1_Banner_SC_350x234.jpg",
+    "first_seen_at": "2026-08-18 14:32:18",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/sc/supp_card_key_facts_statement_sc.pdf",
+      "http://www.hkbea.com/pdf/sc/credit-card/upd_tnc_sc.pdf",
+      "http://www.hkbea.com/pdf/sc/credit-card/2ndcard300.pdf",
+      "https://www.hkbea.com/pdf/upflow_sc.pdf",
+      "https://www.hkbea.com/pdf/update_marketing_preference.pdf",
+      "https://www.hkbea.com/pdf/sc/credit-card/master-reward-tnc_sc.pdf",
+      "https://www.hkbea.com/pdf/sc/credit-card/upd_tnc_sc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-virtual-card.html|vc_landing_sc_01.jpg",
+    "category": "迎新优惠",
+    "title": "东亚银行虚拟信用卡",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-virtual-card.html",
+    "banner_img": "https://www.hkbea.com/images/Acq/vc_landing_sc_01.jpg",
+    "first_seen_at": "2026-08-18 14:32:37",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/sc/credit-card/virtualcard_sc.pdf",
+      "https://www.hkbea.com/pdf/sc/credit-card/master-reward-tnc_sc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/suppcard.html|012024_BEA_Supp_card_offer_eitem_R2_KV_350x234_SC.jpg",
+    "category": "迎新优惠",
+    "title": "东亚银行附属卡",
+    "detail_url": "https://www.hkbea.com/html/sc/suppcard.html",
+    "banner_img": "https://www.hkbea.com/images/Acq/012024_BEA_Supp_card_offer_eitem_R2_KV_350x234_SC.jpg",
+    "first_seen_at": "2026-08-18 14:32:41",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/sc/supp_card_key_facts_statement_sc.pdf",
+      "https://www.hkbea.com/pdf/sc/credit-card/isupp/gift.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "bea",
+    "promo_key": "/html/sc/bea-credit-card-dining-offer-yro.html|BEA_YRO_Dining_2026_eItem_R5_Banner_SC_350x234.jpg",
+    "category": "餐饮优惠",
+    "title": "BEA YRO Dining 2026 eItem R5 KV 537x327 SC",
+    "detail_url": "https://www.hkbea.com/html/sc/bea-credit-card-dining-offer-yro.html",
+    "banner_img": "https://www.hkbea.com/images/Usage/2026YRODining/BEA_YRO_Dining_2026_eItem_R5_Banner_SC_350x234.jpg",
+    "first_seen_at": "2026-08-18 14:35:33",
+    "last_seen_at": "2026-08-21 13:55:36",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf",
+      "https://www.hkbea.com/pdf/Usage/2026YRODining/dining_hotel_sc.pdf",
+      "https://www.hkbea.com/pdf/Usage/2026YRODining/dining_various_cuisines_sc.pdf",
+      "https://www.hkbea.com/pdf/Usage/2026YRODining/dining_others_sc.pdf",
+      "https://www.hkbea.com/pdf/Usage/2026YRODining/2026_dining_tnc_sc.pdf",
+      "https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf"
+    ]
+  },
+  {
+    "bank": "icbcasia",
+    "promo_key": "/hk/promotion/spending-statement-instalment-plan.html",
+    "category": "最新优惠",
+    "title": "申请信用卡消费分期／账单分期计划享高达HK$800现金回赠（2026年7月1日至2026年9月30日）",
+    "detail_url": "https://www.icbcasia.com/hk/sc/promotion/spending-statement-instalment-plan.html",
+    "banner_img": "",
+    "first_seen_at": "2026-08-18 17:37:12",
+    "last_seen_at": "2026-08-21 13:55:37",
+    "status": "active",
+    "terms_pdf_urls": []
+  },
+  {
+    "bank": "icbcasia",
+    "promo_key": "/hk/promotion/supermarket-creditcard-cashrebate.html",
+    "category": "最新优惠",
+    "title": "以ICBC信用卡于香港及中国内地指定超市购物享高达10%现金回赠（2026年7月1日至2026年9月30日（包括首尾两天））",
+    "detail_url": "https://www.icbcasia.com/hk/sc/promotion/supermarket-creditcard-cashrebate.html",
+    "banner_img": "",
+    "first_seen_at": "2026-08-18 17:37:09",
+    "last_seen_at": "2026-08-21 13:55:37",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://v.icbc.com.cn/userfiles/resources/icbc/haiwai/asia/download/cn/2026/supermarket_cashrebate_tnc_2607_sc.pdf",
+      "https://v.icbc.com.cn/userfiles/resources/icbc/haiwai/asia/download/cn/2026/supermarket_merchant_list_2607_sc.pdf"
+    ]
+  },
+  {
+    "bank": "icbcasia",
+    "promo_key": "/hk/promotion/unionpay-mainland-cash-rebate.html",
+    "category": "最新优惠",
+    "title": "以ICBC银联手机支付于中国内地、海外地区消费专享高达7%现金回赠（2026年7月1日至2026年9月30日）",
+    "detail_url": "https://www.icbcasia.com/hk/sc/promotion/unionpay-mainland-cash-rebate.html",
+    "banner_img": "",
+    "first_seen_at": "2026-08-18 17:37:10",
+    "last_seen_at": "2026-08-21 13:55:37",
+    "status": "active",
+    "terms_pdf_urls": []
+  },
+  {
+    "bank": "icbcasia",
+    "promo_key": "/hk/promotion/unionpay-overseas-cash-rebate.html",
+    "category": "最新优惠",
+    "title": "以ICBC银联信用卡于海外地区外币签账专享高达7%现金回赠（2026年7月1日至2026年9月30日）",
+    "detail_url": "https://www.icbcasia.com/hk/sc/promotion/unionpay-overseas-cash-rebate.html",
+    "banner_img": "",
+    "first_seen_at": "2026-08-18 17:37:11",
+    "last_seen_at": "2026-08-21 13:55:37",
+    "status": "active",
+    "terms_pdf_urls": []
+  },
+  {
+    "bank": "icbcasia",
+    "promo_key": "/hk/promotion/vip-lounges-privileges.html",
+    "category": "最新优惠",
+    "title": "凭ICBC信用卡享机场及高铁贵宾室礼遇（2026年7月1日至2026年9月30日（包括首尾两天））",
+    "detail_url": "https://www.icbcasia.com/hk/sc/promotion/vip-lounges-privileges.html",
+    "banner_img": "",
+    "first_seen_at": "2026-08-18 17:37:07",
+    "last_seen_at": "2026-08-21 13:55:37",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://v.icbc.com.cn/userfiles/resources/icbc/haiwai/asia/download/cn/2026/vip_lounges_privileges_tnc_2607_sc.pdf"
+    ]
+  },
+  {
+    "bank": "icbcasia",
+    "promo_key": "/hk/promotion/wechatpayhk-instant-discount.html",
+    "category": "最新优惠",
+    "title": "ICBC信用卡尊享WeChat Pay HK消费立减赏（2026年8月7日至2026年10月31日（包括首尾两天））",
+    "detail_url": "https://www.icbcasia.com/hk/sc/promotion/wechatpayhk-instant-discount.html",
+    "banner_img": "",
+    "first_seen_at": "2026-08-18 17:37:05",
+    "last_seen_at": "2026-08-21 13:55:37",
+    "status": "active",
+    "terms_pdf_urls": [
+      "https://v.icbc.com.cn/userfiles/resources/icbc/haiwai/asia/download/cn/2026/wechat_pay_hk_instant_discount_tnc_2608_sc.pdf"
+    ]
+  }
+]

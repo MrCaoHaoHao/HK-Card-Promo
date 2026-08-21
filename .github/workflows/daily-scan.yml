@@ -1,0 +1,62 @@
+name: hk-card-promo-monitor
+
+on:
+  schedule:
+    # 每 30 分钟一轮（UTC 时间；GitHub 的 cron 可能有几分钟延迟）
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}   # 支持在 GitHub 页面手动触发
+
+# 同一时刻只保留一轮运行，避免两轮并发互相覆盖数据提交
+concurrency:
+  group: promo-scan
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # 允许把增量数据提交回仓库持久化
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r hk_card_promo/requirements.txt
+
+      - name: Run scraper
+        env:
+          HKP_SCKEY: ${{ secrets.HKP_SCKEY }}
+        run: python hk_card_promo/main.py
+
+      - name: Persist data (commit only when incremental change exists)
+        run: |
+          changed=$(python - <<'EOF'
+          import json
+          s = json.load(open("hk_card_promo/data/_run_summary.json"))
+          print("yes" if (s.get("new") or s.get("offline")) else "no")
+          EOF
+          )
+          if [ "$changed" = "yes" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add hk_card_promo/data
+            git commit -m "chore(data): incremental update $(date -u +%F\ %R) UTC"
+            git push
+            echo "data committed"
+          else
+            echo "no incremental change, skip commit"
+          fi
+
+      - name: Upload report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: promo-report-${{ github.run_number }}
+          path: hk_card_promo/data/report_latest.md
+          retention-days: 7

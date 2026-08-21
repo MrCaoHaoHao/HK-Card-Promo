@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+logs/
+.local_secrets
+data_demo/
+# 归档报告/全量推送报告不入库（每轮都生成，避免仓库刷提交）
+data/report_[0-9]*.md
+data/report_full_push.md
+# 数据默认随仓库持久化（GitHub Actions 依赖 git 存储 db/快照）；
+# 如不希望入库，取消下一行注释并改用 artifact/volume 方案
+# data/
