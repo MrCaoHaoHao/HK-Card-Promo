@@ -1,7 +1,7 @@
 活动标题: autumn mass spending web 537x327 sc
 分类: 奬赏及消费优惠
 详情页: https://www.hkbea.com/html/sc/bea-credit-card-rewards-and-spending-offer-spending.html
-Banner: https://www.hkbea.com/images/Usage/Spending/2026SepOct/autumn_mass_spending_web_350x234_sc.jpg
+Banner: https://www.hkbea.com/images/Usage/Spending/2026SepOct/autumn_mass_spending_iphone_web_350x234_sc.jpg
 
 ----- 详情页正文 -----
 奬赏及消费优惠
@@ -13,13 +13,12 @@ Banner: https://www.hkbea.com/images/Usage/Spending/2026SepOct/autumn_mass_spend
 https://www.hkbea.com/pdf/sc/investment-services/mkd_interest%20rates_chi.pdf
 https://www.hkbea.com/pdf/Usage/Spending/2026SepOct/spend-example-sc.pdf
 https://www.hkbea.com/pdf/Usage/Spending/2026SepOct/spend-tnc-sc.pdf
-https://www.hkbea.com/pdf/update_marketing_preference.pdf
 https://www.hkbea.com/pdf/sc/hkbea-privacy-policy.pdf
 
 ----- 条款文本 -----
 ===== 条款文件: spend-tnc-sc.pdf =====
 Page 1 of 7
-「东亚银行信用卡秋日消费激赏：激赚高达 HK$ 3,960 奖赏*」之条款及细则
+「东亚银行信用卡秋日消费激赏：激赚高达 HK$3,960 奖赏*」之条款及细则
 1. 推广期由 2026 年 9 月 1日至 2026 年 10月 31日，包括首尾两日（「推广期」）。推广期
 分2 个阶段进行：第 1阶段为 2026 年9 月 1日至2026 年9 月30 日（「阶段1」），第2
 阶段为 2026 年10月 1日至2026 年 10月31日（「阶段2」）。
@@ -69,7 +68,7 @@ Page 2 of 7
 7.5X 奖分 (= 3%回赠)
 HK$8,000 – < HK$18,000 36,000
 10X奖分 (= 4%回赠)
-HK$18,000 – < HK$4 0,000 110,000
+HK$18,000 – < HK$40,000 110,000
 12.5X奖分 (= 5%回赠)
 HK$40,000 或以上 300,000
 每位持卡人于推广期内合共可获额外高达600,000 奖分。
@@ -84,7 +83,7 @@ Page 3 of 7
 奖赏 (2 选1)
 于Apple Store 透过Apple Pay 作
 单一合资格Apple 签账净额满 奖赏1：现金回赠 奖赏2：里数^
-4,000 里
+4,000 里^
 HK$8,000 或以上 HK$320
 (= 40,000 奖分)
 #条款 5 所述之「现金回赠」信用卡单一持卡人奖赏将按兑换率每 250 奖分等于 HK$1 以现
@@ -123,7 +122,7 @@ XXXXXXXXXXXXXXXXXXXXXXX
 16. 本推广之不合资格签账包括商户免息分期之签账、现金透支、网上／自动柜员机缴款、税
 务缴款、循环付款、自动转账交易、透过任何途径增值八达通之交易（包括但不限于八达
 通自动增值服务、网上或手机）、电子货币包（包括但不限于 Alipay、Alipay HK 、PayMe、
-WeChat Pay 及 WeChat Pay HK）、转账金额、购买及/或充值储值卡、保险交易、经指定
+WeChat Pay 及 WeChat Pay HK ）、转账金额、购买及/或充值储值卡、保险交易、经指定
 本地售票网络之购票交易（包括但不限于Cityline 、快达票及HotdogTIX Limited ）、任何
 超级市场签账、政府部门签账交易（任何地区）、邮购、传真及电话订购、「好用钱」计
 划有关金额、财务费用、逾期手续费、年费、银行收费、筹码兑换、未志账/取消/退款的
@@ -131,11 +130,11 @@ WeChat Pay 及 WeChat Pay HK）、转账金额、购买及/或充值储值卡、
 The Bank of East Asia, Limited 東亞銀行有限公司刊發 (09/2026)
 Page 5 of 7
 17. 东亚银行将根据Visa 国际组织、Mastercard Asia/Pacific (Hong Kong) Limited 、银联国际、
-JCB International Co. , Ltd 或个别商户之收单银行的商户编号或交易类别厘定合资格签账。持
+JCB International Co., Ltd 或个别商户之收单银行的商户编号或交易类别厘定合资格签账。持
 卡人于进行签账交易前， 东亚银行恕不负责澄清该项交易可否获享奬赏优惠。如商户编号或
 交易类别与商户实务不符，东亚银行恕不负责赔偿及保留厘定合资格签账的最终决定权。
 18. 以港元以外货币志账之香港境外零售签账及有关外币交易费用（如适用）将按 Visa 国际组
-织、Mastercard Asia/Pacific (Hong Kong) Limited 、银联国际或JCB International Co. , Ltd 之
+织、Mastercard Asia/Pacific (Hong Kong) Limited 、银联国际或JCB International Co., Ltd 之
 汇率换算为港元，以计算持卡人的合资格签账。而透过合资格信用卡之人民币户口进行的人
 民币签账金额，于本推广中则每 1 元人民币签账将当作港币 1 元计算。
 19. 所有交易须于推广期内完成及以交易日为准，并于优惠期完结后 14 日内志账于有关卡户口
